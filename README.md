@@ -1,6 +1,10 @@
 # Springboot-Security-JWT
 
+- 포스트맨 설정
+
 ![blog](https://postfiles.pstatic.net/MjAxOTA2MTJfNDgg/MDAxNTYwMjY5MjgyNTg1.79Y-gsmc1t13LixXKOAeTTY7-pcvl67yd1qtrvaayO4g._I6TTYb88HvoNo12RjOQinYy76p1608rjWGxHFg7m0Mg.PNG.codingspecialist/Screenshot_4.png?type=w773)
+
+- Body, raw(json) 데이터로 요청
 
 ![blog](https://postfiles.pstatic.net/MjAxOTA2MTJfMjMx/MDAxNTYwMjY5MjgyMjkz.CY1TRUvqZxjfWHuOvHG7nijY4IlD2FPWuej4pHqyMZ8g.B5ozKaI0pl0W7RkBNv04P7u_WKcMaflzyaad6ws6Jo4g.PNG.codingspecialist/Screenshot_7.png?type=w773)
 
